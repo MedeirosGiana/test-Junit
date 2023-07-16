@@ -38,4 +38,11 @@ public class AccountTests {
         Assertions.assertTrue(result==initialBalance);
 
     }
+    @Test
+    public  void withdrawShouldDecreaseBalanceWhenSufficientToBalance(){
+        Account acc = AccountFactory.createAccount(800.00);
+        acc.withdraw(500.00);
+
+        Assertions.assertEquals(300.00, acc.getBalance());
+    }
 }
