@@ -6,7 +6,7 @@ Projeto Java criado para contexto de testes automatizados com JUnit, onde existe
 
 ### Objetivo:
 
-Compreender os fundamentos de testes unitários utilizando o framework JUnit, aplicar testes concisos dos cenários cinforme descritos abaixo, a fim de validar o comportamento de unidades funcionais de código/métodos.
+Compreender os fundamentos de testes unitários utilizando o framework JUnit, aplicar testes concisos dos cenários conforme descritos abaixo, a fim de validar o comportamento de unidades funcionais de código/métodos.
 
 ### Testes realizados:
 
