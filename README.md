@@ -10,7 +10,7 @@ Compreender os fundamentos de testes unitários utilizando o framework JUnit, ap
 
 ### Testes realizados:
 
-- Verificar se o deposito incrementa o saldo quando entrar com um valor/quantidade positiva na conta:
+- Verifica se o deposito incrementa o saldo quando entrar com um valor/quantidade positiva na conta:
 
 ![img.png](img.png)
 
